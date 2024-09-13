@@ -4,7 +4,7 @@ public class employeeInfo {
 
     public static void main(String[] args) {
         int[] empNo = {1001, 1002, 1003, 1004, 1005, 1006, 1007};
-        String[] empName = {"Ashish", "Sushma", "Rahul", "Chahat", "Ranjan", "Suman", "Tanmay"};
+        String[] empName = {"Kylie", "Zayn", "Lisa", "Salman", "kendal", "Alia", "Tanmay"};
         String[] department = {"R&D", "PM", "Acct", "Front Desk", "Engg", "Manufacturing", "PM"};
         String[] designationCode = {"e", "c", "k", "r", "m", "e", "c"};
         int[] basic = {20000, 30000, 10000, 12000, 50000, 23000, 29000};
